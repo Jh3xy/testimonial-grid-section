@@ -13,13 +13,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Purple 50: hsl(260, 100%, 95%)
-- Purple 300: hsl(264, 82%, 80%)
-- Purple 500: hsl(263, 55%, 52%)
+- Purple 50: 
+- Purple 300: 
+- Purple 500: 
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
+- White: 
 - Grey 100: hsl(214, 17%, 92%)
 - Grey 200: hsl(0, 0%, 81%)
 - Grey 400: hsl(224, 10%, 45%)
@@ -38,4 +38,4 @@ The designs were created to the following widths:
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?re()f=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
